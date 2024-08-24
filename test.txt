@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is  another commit!
+=======
+This is again a commit!
+>>>>>>> feature
 This is a new line added in the second commit.
